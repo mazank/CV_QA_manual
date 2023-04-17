@@ -1,1 +1,1 @@
-https://mazank.github.io/CV_QA_manual/cv
+https://mazank.github.io/CV_QA_manual/
